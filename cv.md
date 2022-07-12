@@ -33,9 +33,14 @@ My goal is to become a front-end developer. My strengths are attentiveness, resp
 
 **Code example:**
 ```
-function multiply(a, b){
-  return a * b;
-}
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+  if(distanceToPump <= mpg*fuelLeft){
+    return true;
+  }
+  else{
+    return false;
+  }
+};
 ```
 
 **Work experience:**
