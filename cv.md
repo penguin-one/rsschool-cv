@@ -3,13 +3,9 @@
 
 
 ### Contact details:
-
 ***Phone:*** +375 44 123 45 67
-
 ***Email:*** akim_akimovich@email.com
-
 ***Discord:*** @penguin-one
-
 ***GitHub:*** penguin-one
 ====
 
