@@ -18,9 +18,9 @@ My goal is to become a front-end developer. My strengths are attentiveness, resp
 ***
 
 ### Skills
-- ***programming languages:*** HTML5, CSS3, JavaScript, PHP
-- ***frameworks:*** Bootstrap
-- ***version control system:*** Git
+- ***Programming languages:*** HTML5, CSS3, JavaScript, PHP
+- ***Framework:*** Bootstrap
+- ***Version control system:*** Git
 - ***CMS:*** Joomla, WordPress
 - ***Code editor:*** Visual Studio Code
 - ***Other:*** GitHub, Figma
