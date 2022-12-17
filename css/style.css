@@ -54,7 +54,7 @@
         url('../fonts/lato-v23-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
  }
 
-/* Start */
+/* Start styles */
 html{
     box-sizing: border-box;
  }
@@ -183,4 +183,40 @@ code{
 .span__weight600{
    font-weight: 600;
 }
-/* End */
+
+.footer{
+   padding: 20px 0;
+   display: flex;
+   width: 960px;
+   margin: 0 auto;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.link-year {
+   line-height: 1.8;
+}
+
+.github-link,
+.link {
+   text-decoration: none;
+   color: #000;
+   font-size: 1.1rem;
+   font-weight: 600;
+}
+
+.github-link:hover,
+.link:hover {
+   text-decoration: underline;
+}
+
+.github-link:active,
+.link:active {
+   color: #6b9999;
+   text-decoration: none;
+}
+
+.rsschool-link {
+   width: 120px;
+}
+/* End styles*/
